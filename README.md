@@ -7,7 +7,7 @@
 
 Параметры запроса: 
 
-- status (optional): Фильтрует по статусу. `/api/tasks?=Open` 
+- status (optional): Фильтрует по статусу. `/api/tasks?status=Open` 
 
 - due_date (optional): Фильтрует по совпадению даты. `/api/tasks?due_date_less_than=2024-03-01` 
 
